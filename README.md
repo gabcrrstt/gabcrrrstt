@@ -1,8 +1,7 @@
-# Olá, seja bem vindo!
-  
- - 🎓 Estudante de Ciência da Computação pela Universidade Federal de Rondonia (Unir);
+# 
+# Welcome to my profile
+ - 🎓 I am a computer science student at the Federal University of Rondonia;
  - 🎈 Pronouns: she/ela/ella;
-- 💻 Estudando Python;
 
 <div align="center">
   <a href="https://github.com/gabcrrstt">
