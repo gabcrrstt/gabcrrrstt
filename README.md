@@ -1,7 +1,7 @@
 # Ola, seja bem vindo!
   
-- 🎓 Estudante de Ciência da Computação pela Universidade Federal de Rondonia (Unir);
-- 🎈 Pronouns: she/ela/ella;
+ - 🎓 Estudante de Ciência da Computação pela Universidade Federal de Rondonia (Unir);
+ - 🎈 Pronouns: she/ela/ella;
 - 💻 Estudando Python;
 
 <div align="center">
