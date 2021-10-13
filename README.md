@@ -1,4 +1,4 @@
-# Ola, seja bem vindo!
+# Olá, seja bem vindo!
   
  - 🎓 Estudante de Ciência da Computação pela Universidade Federal de Rondonia (Unir);
  - 🎈 Pronouns: she/ela/ella;
