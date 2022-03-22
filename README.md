@@ -1,6 +1,7 @@
 # 
 # Welcome to my profile
  - 🎓 I am a computer science student at the Federal University of Rondonia;
+ - I’m always open and willing to learn.
  - 🎈 Pronouns: she/ela/ella;
  
    <div align="center">
