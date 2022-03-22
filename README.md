@@ -28,4 +28,12 @@
 ![Snake animation](https://github.com/Hevairpro/Hevairpro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+ <p align="center"> 
+
+ ## Total de Visitas no Perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Hevairpro/count.svg" />
+ </p>
+
+</p>
 
