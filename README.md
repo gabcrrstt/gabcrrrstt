@@ -32,7 +32,7 @@
 
  ## Total de Visitas no Perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Hevairpro/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/gabcrrstt/count.svg" />
  </p>
 
 </p>
