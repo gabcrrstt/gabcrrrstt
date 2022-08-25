@@ -26,7 +26,7 @@
   
   <div>
 
-![Snake animation](https://github.com/Hevairpro/Hevairpro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabcrrstt/gabcrrstt/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
